@@ -304,7 +304,7 @@ public class LoginActivity extends AppCompatActivity {
 
 
             //restart this activity
-
+System.out.println("xxxx");
         }
     }}
 
