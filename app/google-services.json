@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538301763178",
+    "firebase_url": "https://upayfirst.firebaseio.com",
+    "project_id": "upayfirst",
+    "storage_bucket": "upayfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538301763178:android:61e0319637f129f3",
+        "android_client_info": {
+          "package_name": "com.upayfirst.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538301763178-2h1ig72v6rluk4jnqnc3nkhp6am5c99a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upayfirst.www",
+            "certificate_hash": "e52b370988a19660a508c8a405ecd786b7955f02"
+          }
+        },
+        {
+          "client_id": "538301763178-jikg7eb7che3ck023po6nsnj76tndle0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sYVOu9DSEdwhHGKaorSTFFQZ33diyCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538301763178-jikg7eb7che3ck023po6nsnj76tndle0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
